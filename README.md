@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cassydjye
 - 🌱 I’m currently learning C
-- 📫 How to reach me : seedjye.malbrcouk@epitech.eu 
+- 📫 How to reach me : seedjye.malbrouck@epitech.eu 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I also live on a rock 👀
 
