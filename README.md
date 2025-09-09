@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Cassy (@cassydjye)
+# 👋 Hi, I’m Seedjye (@cassydjye)
 
 🎓 I’m an IT student at **Epitech**.  
 🌱 I’m currently learning **C programming**, exploring **Python basics**, and improving my **English skills**.  
